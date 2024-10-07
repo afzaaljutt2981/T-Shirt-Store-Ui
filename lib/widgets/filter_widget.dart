@@ -59,7 +59,7 @@ class _FilterWidgetState extends State<FilterWidget> {
             width: 20,
           ),
           Chip(
-            backgroundColor: Colors.grey.shade900,
+            backgroundColor: Colors.grey.shade900,  
             labelPadding: const EdgeInsets.symmetric(horizontal: 16),
             label: const Text(
               "News",
