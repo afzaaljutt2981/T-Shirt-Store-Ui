@@ -5,7 +5,7 @@ import 'package:tshirtui/screens/detail_screen.dart';
 
 import '../utils/colors.dart'; 
 
-class ProductView extends StatelessWidget {
+class ProductView extends StatelessWidget { 
   final ProductDetails? productDetails;
   final String imagePath, title, price;
   final bool? isFav;
