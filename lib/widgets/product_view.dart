@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:tshirtui/models/product_details.dart';
 import 'package:tshirtui/screens/detail_screen.dart';
 
-import '../utils/colors.dart';
+import '../utils/colors.dart'; 
 
 class ProductView extends StatelessWidget {
   final ProductDetails? productDetails;
