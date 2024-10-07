@@ -59,7 +59,7 @@ class ProductView extends StatelessWidget {
                         isFav!
                             ? Icons.favorite_rounded
                             : Icons.favorite_outline_rounded,
-                        color: isFav! ? Colors.red : Colors.black,
+                        color: isFav! ? Colors.red : Colors.black, 
                         size: 25,
                       )),
                 ),
