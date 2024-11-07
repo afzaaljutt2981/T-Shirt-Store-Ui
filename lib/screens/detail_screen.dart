@@ -83,7 +83,7 @@ class _DetailScreenState extends State<DetailScreen> {
                           widget.productDetails.isFav =
                               !widget.productDetails.isFav!;
                         });
-                      },
+                      }, 
                       icon: Icon(
                         widget.productDetails.isFav!
                             ? Icons.favorite_rounded
