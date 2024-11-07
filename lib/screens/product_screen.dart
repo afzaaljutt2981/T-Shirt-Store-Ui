@@ -53,7 +53,7 @@ class _ProductsScreenState extends State<ProductsScreen> {
             ),
           )
         ],
-      ),
+      ), 
       body: Padding(
         padding: const EdgeInsets.only(left: 16.0),
         child: SingleChildScrollView(
