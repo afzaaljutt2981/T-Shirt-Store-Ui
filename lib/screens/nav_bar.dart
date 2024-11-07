@@ -18,7 +18,7 @@ class NavBar extends StatefulWidget {
 
 class _NavBarState extends State<NavBar> {
   int _currentIndex = 0;
-
+ 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
