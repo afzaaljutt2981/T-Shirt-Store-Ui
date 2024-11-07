@@ -10,7 +10,7 @@ class ProductsScreen extends StatefulWidget {
 
   @override
   State<ProductsScreen> createState() => _ProductsScreenState();
-}
+} 
 
 class _ProductsScreenState extends State<ProductsScreen> {
   @override
