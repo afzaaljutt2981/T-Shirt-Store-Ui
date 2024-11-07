@@ -76,7 +76,7 @@ class _DetailScreenState extends State<DetailScreen> {
                             ),
                           ]),
                     ),
-                  ),
+                  ), 
                   IconButton(
                       onPressed: () {
                         setState(() {
