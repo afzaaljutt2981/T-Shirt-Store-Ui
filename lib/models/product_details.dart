@@ -5,7 +5,7 @@ class ProductDetails {
   ProductDetails({
     required this.name,
     required this.price,
-    required this.imagePath,
+    required this.imagePath, 
     this.isFav = false,
   });
 }
