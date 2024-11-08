@@ -5,7 +5,7 @@ import 'home_screen.dart';
 import 'product_screen.dart';
 
 List<Widget> screens = [
-  const HomeScreen(),
+  const HomeScreen(), 
   const ProductsScreen(),
 ];
 
