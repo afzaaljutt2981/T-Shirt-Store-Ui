@@ -9,7 +9,7 @@ class Constants {
     ProductDetails(
         name: "Pleated Pants",
         price: "29.55",
-        imagePath: "assets/images/2.jpg"),
+        imagePath: "assets/images/2.jpg"), 
     ProductDetails(
         name: "Leater Jacket",
         price: "106.05",
