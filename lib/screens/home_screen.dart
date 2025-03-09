@@ -8,7 +8,7 @@ import '../widgets/product_view.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
  
-  @override
+  @override 
   Widget build(BuildContext context) {
     return Scaffold( 
       appBar: AppBar(
