@@ -5,7 +5,7 @@ import 'package:tshirtui/utils/colors.dart';
 import 'screens/nav_bar.dart';
 
 void main() { 
-  runApp(const MyApp());
+  runApp(const MyApp()); 
 }   
 
 class MyApp extends StatelessWidget {
