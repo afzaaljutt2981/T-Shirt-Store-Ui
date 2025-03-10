@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'T-Shirt Store',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: AppColors.primaryColor,
+        primaryColor: AppColors.primaryColor, 
         buttonTheme: const ButtonThemeData(
           buttonColor: AppColors.buttonColor,
           textTheme: ButtonTextTheme.primary,
